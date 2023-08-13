@@ -1,5 +1,5 @@
 #jeremiah inyang
-#8.11.23
+# 8.11.23
 
 print("Welcome to the Band Name Generator.")
 street = input("What's the name of the city you grew up in?\n")
